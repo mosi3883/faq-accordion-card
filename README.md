@@ -2,6 +2,8 @@
 
 ![Design preview for the FAQ accordion card coding challenge](./design/desktop-preview.jpg)
 
+[Live preview](https://mosi3883.github.io/faq-accordion-card/)
+
 <!-- ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
